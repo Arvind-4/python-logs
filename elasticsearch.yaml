@@ -1,0 +1,5 @@
+network.host: 127.0.0.1
+http.host: 0.0.0.0
+http.port: 9200
+transport.host: 0.0.0.0
+transport.tcp.port: 9300
